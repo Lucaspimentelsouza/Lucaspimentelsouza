@@ -2,9 +2,9 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Lucas Pimentel, tenho 25 anos e sou natural de Campos dos Goytacazes-RJ. Atualmente, estou cursando Ciência da Computação na UENF. Sou um desenvolvedor Back-end atualmente focado em melhorar meus conhecimento em Java.
+Me chamo Lucas Pimentel, tenho 25 anos e sou natural de Campos dos Goytacazes-RJ. Atualmente, estou cursando Ciência da Computação na UENF. Estou focado em melhorar meus conhecimento em Java.
 
-
+- 🌱 Atualmente aprendendo: Java, SpringBoot, Docker.
 ---
 
 ### 🤖 Linguagens e Tecnologias
