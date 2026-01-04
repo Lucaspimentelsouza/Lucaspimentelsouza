@@ -4,7 +4,7 @@
 
 Me chamo Lucas Pimentel, tenho 25 anos e sou natural de Campos dos Goytacazes-RJ. Atualmente, estou cursando Ciência da Computação na UENF. Estou focado em melhorar meus conhecimento em Java.
 
-- 🔭 Trabalho atual: Desenvolvedor Front-End SoulCode (Empresa Júnior da faculdade)
+- 🔭 Atualmente no projeto: Desenvolvedor Front-End SoulCode (Empresa Júnior da faculdade)
 - 🌱 Atualmente aprendendo: Java, SpringBoot, Docker.
 ---
 
