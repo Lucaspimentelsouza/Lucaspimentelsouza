@@ -20,6 +20,7 @@ Me chamo Lucas Pimentel, tenho 25 anos e sou natural de Campos dos Goytacazes-RJ
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
+
 <img 
     align="left" 
     alt="SQL" 
@@ -29,7 +30,6 @@ Me chamo Lucas Pimentel, tenho 25 anos e sou natural de Campos dos Goytacazes-RJ
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
 
-/>
 <img 
     align="left" 
     alt="Spring Boot" 
