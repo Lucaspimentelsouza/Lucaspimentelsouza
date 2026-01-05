@@ -6,7 +6,7 @@ Me chamo Lucas Pimentel, tenho 25 anos e sou natural de Campos dos Goytacazes-RJ
 
 - 🔭 Atualmente no projeto: Desenvolvedor Front-End na SoulCode.
 - 🌱 Atualmente aprendendo: Docker.
-- 👨‍🎓 Atualmente melhorando os conhecimentos em: Java, SpringBoot
+- 👨‍🎓 Atualmente melhorando os conhecimentos em: Java, SpringBoot, C.
 - 🔰 Conhecimento básico: HTML, CSS, C.
 - ⚡ Aprendizado futuro: JavaScript, Angular.
 ---
